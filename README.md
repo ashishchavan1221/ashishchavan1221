@@ -3,13 +3,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Ashish+Chavan+👋;Python+Developer+%7C+Data+Analyst;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </h1>
 
+<!-- Followers and Views -->
+<p align="center" dir="auto">
+  <!-- Profile Views -->
+  <a href="https://github.com/ashishchavan1221">
+    <img src="https://komarev.com/ghpvc/?username=ashishchavan1221&label=Profile%20Views&color=6366f1&style=flat" 
+         alt="Profile Views" 
+         style="max-width: 100%;">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- GitHub Followers -->
+  <a href="https://github.com/ashishchavan1221?tab=followers">
+    <img src="https://img.shields.io/github/followers/ashishchavan1221?label=Followers&style=flat&color=6366f1" 
+         alt="GitHub Followers" 
+         style="max-width: 100%;">
+  </a>
+</p>
+
+
 ---
 
-### 🌟 About Me
-🎓 **MCA (AI & ML)** student at LPU  
+### 🌟 About Me  
+🎓 **MCA (AI & ML)** student at Lovely Professional University  
 💡 Passionate about transforming data into actionable insights  
-🚀 Skilled in Python, Data Analytics, and Machine Learning  
-🎯 Building smart solutions that combine creativity with data  
+🐍 Skilled in **Python, Data Analytics, and Machine Learning**  
+🚀 Building data-driven and AI-powered solutions  
 
 ---
 
@@ -65,8 +83,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ashishchavan1221&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--
-**ashishchavan1221/ashishchavan1221** — turning data into insights with Python & AI 🚀
--->
+<!-- Footer -->
+<p align="center">
+  <i>“Turning Data into Insights using Python & AI 🚀”</i>
+</p>
